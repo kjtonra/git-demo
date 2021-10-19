@@ -1,3 +1,3 @@
-# coding-demo
+# git-demo
 
-hello is this thing on?
+We're trying new things in Github using this forked repo! 
