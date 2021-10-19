@@ -46,6 +46,12 @@ plot(x, y,
 abline(fit)
 
 
+# Plot the results --------------------------------------------------------
+
+# We're using this to demo a conflict between online and local repo
+
+conflict <- TRUE
+
 
 
 
